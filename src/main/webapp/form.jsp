@@ -16,7 +16,7 @@
             margin: 0;
             font-family: 'Segoe UI', sans-serif;
             background: #cdadc2;
-            color: #f4f4f4;
+            color: #000000;
         }
 
         .container {
