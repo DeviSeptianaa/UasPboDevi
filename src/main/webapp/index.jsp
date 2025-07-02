@@ -11,7 +11,7 @@
         body {
             margin: 0;
             font-family: 'Segoe UI', sans-serif;
-            background:  #00ffc3;
+            background:  #cdadc2;
             color: #f4f4f4;
         }
 
@@ -28,14 +28,14 @@
             text-align: center;
             margin-bottom: 25px;
             font-weight: 600;
-            color: #00ffc3;
+            color: #cdadc2;
         }
 
         .add-btn {
             display: block;
             width: fit-content;
             padding: 12px 20px;
-            background-color: #00ffc3;
+            background-color: #cdadc2;
             color: white;
             text-decoration: none;
             border-radius: 6px;
@@ -45,7 +45,7 @@
         }
 
         .add-btn:hover {
-            background-color: #00ffc3;
+            background-color: #cdadc2;
         }
 
         table {
@@ -64,7 +64,7 @@
 
         th {
             background-color: #000000;
-            color: #00ffc3;
+            color: #cdadc2;
             font-weight: 600;
         }
 
@@ -73,7 +73,7 @@
         }
 
         .action-link {
-            color: #00ffc3;
+            color: #cdadc2;
             text-decoration: none;
             margin: 0 6px;
             font-weight: 500;
@@ -81,7 +81,7 @@
 
         .action-link:hover {
             text-decoration: underline;
-            color: #00ffc3;
+            color: #cdadc2;
         }
 
         .no-data {

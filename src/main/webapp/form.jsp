@@ -15,7 +15,7 @@
         body {
             margin: 0;
             font-family: 'Segoe UI', sans-serif;
-            background: #00ffc3;
+            background: #cdadc2;
             color: #f4f4f4;
         }
 
@@ -55,7 +55,7 @@
 
         input[type=submit] {
             width: 100%;
-            background-color: #00ffc3;
+            background-color: #cdadc2;
             color: #000000;
             border: none;
             padding: 14px;
@@ -66,7 +66,7 @@
         }
 
         input[type=submit]:hover {
-            background-color: #00ffc3;
+            background-color: #cdadc2;
         }
 
         a {
@@ -74,7 +74,7 @@
             text-align: center;
             margin-top: 15px;
             text-decoration: none;
-            color: #00ffc3;
+            color: #cdadc2;
         }
 
         a:hover {
